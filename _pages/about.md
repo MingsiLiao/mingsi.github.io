@@ -13,7 +13,7 @@ I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](ht
 
 News
 ======
-![celebration](diwali-sparkles-stars.gif)
+/images/diwali-sparkles-stars.gif
 
 
 Contacts
