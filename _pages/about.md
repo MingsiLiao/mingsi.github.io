@@ -50,5 +50,20 @@ I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](ht
 
 </div>
 
+<br>
+<div style="color: grey;" id="last-updated">Last updated: </div>
+
+<script>
+  // Get the current date
+  const currentDate = new Date();
+
+  // Format the date (e.g., Month Day, Year)
+  const options = { year: 'numeric', month: 'long', day: 'numeric' };
+  const formattedDate = currentDate.toLocaleDateString(undefined, options);
+
+  // Set the formatted date in the "last-updated" div
+  document.getElementById('last-updated').innerHTML = `Last updated: ${formattedDate}`;
+</script>
+
 
 
