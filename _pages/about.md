@@ -34,10 +34,6 @@ Awarded Second Place in the Poster Presentation at the [2024 GPSS Research Sympo
 
 <table>
   <tr>
-    <th>Date</th>
-    <th>Details</th>
-  </tr>
-  <tr>
     <td><strong>Jan 2025</strong></td>
     <td>Scheduled to present our work, <a href="#">Deep Learning vs. Threshold Methods for Calf Weight Prediction</a>, at the <a href="https://intlpag.org/PAG32/">Plant and Animal Genome Conference (PAG)</a> in San Diego, California.</td>
   </tr>
