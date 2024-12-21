@@ -68,42 +68,28 @@ Awarded Second Place in the Poster Presentation at the [2024 GPSS Research Sympo
 </table>
 
 
-<div style="display: flex; flex-direction: column; gap: 20px;">
+<div style="display: grid; grid-template-columns: 150px auto; row-gap: 20px; column-gap: 20px;">
 
-  <div style="display: flex; gap: 20px;">
-    <div style="width: 150px; font-weight: bold; margin-right: 20px;">Jan 2025</div>
-    <div>Scheduled to present our work, <a href="#">Deep Learning vs. Threshold Methods for Calf Weight Prediction</a>, at the <a href="https://intlpag.org/PAG32/">Plant and Animal Genome Conference (PAG)</a> in San Diego, California.</div>
-  </div>
+  <div style="font-weight: bold;">Jan 2025</div>
+  <div>Scheduled to present our work, <a href="#">Deep Learning vs. Threshold Methods for Calf Weight Prediction</a>, at the <a href="https://intlpag.org/PAG32/">Plant and Animal Genome Conference (PAG)</a> in San Diego, California.</div>
 
-  <div style="display: flex; gap: 20px;">
-    <div style="width: 150px; font-weight: bold; margin-right: 20px;">Nov 2024</div>
-    <div>Earned the <a href="https://dac.cs.vt.edu/academics/data-analytics/">Graduate Certificate in Data Analytics</a>.</div>
-  </div>
+  <div style="font-weight: bold;">Nov 2024</div>
+  <div>Earned the <a href="https://dac.cs.vt.edu/academics/data-analytics/">Graduate Certificate in Data Analytics</a>.</div>
 
-  <div style="display: flex; gap: 20px;">
-    <div style="width: 150px; font-weight: bold; margin-right: 20px;">July 2024</div>
-    <div>Our work on <a href="https://www.mdpi.com/1422-0067/25/14/7748">SNP Analysis of Ovine Johne’s Disease Resistance</a> was accepted to the <a href="https://www.mdpi.com/journal/ijms">International Journal of Molecular Sciences</a>.</div>
-  </div>
+  <div style="font-weight: bold;">July 2024</div>
+  <div>Our work on <a href="https://www.mdpi.com/1422-0067/25/14/7748">SNP Analysis of Ovine Johne’s Disease Resistance</a> was accepted to the <a href="https://www.mdpi.com/journal/ijms">International Journal of Molecular Sciences</a>.</div>
 
-  <div style="display: flex; gap: 20px;">
-    <div style="width: 150px; font-weight: bold; margin-right: 20px;">June 2024</div>
-    <div>Presented our work, <a href="#">Dietary Crude Protein is Independent of Rumen Microbial Community Ecology in Lactating Dairy Cows</a>, at the <a href="https://www.adsa.org/">American Dairy Science Association (ADSA) Annual Meeting</a> in West Palm Beach, Florida.</div>
-  </div>
+  <div style="font-weight: bold;">June 2024</div>
+  <div>Presented our work, <a href="#">Dietary Crude Protein is Independent of Rumen Microbial Community Ecology in Lactating Dairy Cows</a>, at the <a href="https://www.adsa.org/">American Dairy Science Association (ADSA) Annual Meeting</a> in West Palm Beach, Florida.</div>
 
-  <div style="display: flex; gap: 20px;">
-    <div style="width: 150px; font-weight: bold; margin-right: 20px;">May 2024</div>
-    <div>Presented our work, <a href="#">Camera-Based Monitoring of Dairy Calf Health and Growth: Phenotyping Techniques Applied</a>, at Research Day, School of Animal Science, Virginia Tech.</div>
-  </div>
+  <div style="font-weight: bold;">May 2024</div>
+  <div>Presented our work, <a href="#">Camera-Based Monitoring of Dairy Calf Health and Growth: Phenotyping Techniques Applied</a>, at Research Day, School of Animal Science, Virginia Tech.</div>
 
-  <div style="display: flex; gap: 20px;">
-    <div style="width: 150px; font-weight: bold; margin-right: 20px;">April 2024</div>
-    <div>Presented "Colostrum Quality: Management and Storage for Healthy Calves" at the Dairy Science Seminar, Virginia Tech, Blacksburg, Virginia.</div>
-  </div>
+  <div style="font-weight: bold;">April 2024</div>
+  <div>Presented "Colostrum Quality: Management and Storage for Healthy Calves" at the Dairy Science Seminar, Virginia Tech, Blacksburg, Virginia.</div>
 
-  <div style="display: flex; gap: 20px;">
-    <div style="width: 150px; font-weight: bold; margin-right: 20px;">March 2024</div>
-    <div>Awarded Second Place in the Poster Presentation at the <a href="https://gpss.vt.edu/programs/gsars.html">2024 GPSS Research Symposium</a>.</div>
-  </div>
+  <div style="font-weight: bold;">March 2024</div>
+  <div>Awarded Second Place in the Poster Presentation at the <a href="https://gpss.vt.edu/programs/gsars.html">2024 GPSS Research Symposium</a>.</div>
 
 </div>
 
