@@ -32,6 +32,44 @@ Recent News
 **March 2024**  
 Awarded Second Place in the Poster Presentation at the [2024 GPSS Research Symposium](https://gpss.vt.edu/programs/gsars.html).
 
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td><strong>Jan 2025</strong></td>
+    <td>Scheduled to present our work, <a href="#">Deep Learning vs. Threshold Methods for Calf Weight Prediction</a>, at the <a href="https://intlpag.org/PAG32/">Plant and Animal Genome Conference (PAG)</a> in San Diego, California.</td>
+  </tr>
+  <tr>
+    <td><strong>Nov 2024</strong></td>
+    <td>Earned the <a href="https://dac.cs.vt.edu/academics/data-analytics/">Graduate Certificate in Data Analytics</a>.</td>
+  </tr>
+  <tr>
+    <td><strong>July 2024</strong></td>
+    <td>Our work on <a href="https://www.mdpi.com/1422-0067/25/14/7748">SNP Analysis of Ovine Johne’s Disease Resistance</a> was accepted to the <a href="https://www.mdpi.com/journal/ijms">International Journal of Molecular Sciences</a>.</td>
+  </tr>
+  <tr>
+    <td><strong>June 2024</strong></td>
+    <td>Presented our work, <a href="#">Dietary Crude Protein is Independent of Rumen Microbial Community Ecology in Lactating Dairy Cows</a>, at the <a href="https://www.adsa.org/">American Dairy Science Association (ADSA) Annual Meeting</a> in West Palm Beach, Florida.</td>
+  </tr>
+  <tr>
+    <td><strong>June 2024</strong></td>
+    <td>Presented our work, <a href="#">Dairy Calf Health and Growth Monitoring through Camera Phenotyping Techniques</a>, at the <a href="https://www.adsa.org/">American Dairy Science Association (ADSA) Annual Meeting</a> in West Palm Beach, Florida.</td>
+  </tr>
+  <tr>
+    <td><strong>May 2024</strong></td>
+    <td>Presented our work, <a href="#">Camera-Based Monitoring of Dairy Calf Health and Growth: Phenotyping Techniques Applied</a>, at Research Day, School of Animal Science, Virginia Tech.</td>
+  </tr>
+  <tr>
+    <td><strong>April 2024</strong></td>
+    <td>Presented "Colostrum Quality: Management and Storage for Healthy Calves" at the Dairy Science Seminar, Virginia Tech, Blacksburg, Virginia.</td>
+  </tr>
+  <tr>
+    <td><strong>March 2024</strong></td>
+    <td>Awarded Second Place in the Poster Presentation at the <a href="https://gpss.vt.edu/programs/gsars.html">2024 GPSS Research Symposium</a>.</td>
+  </tr>
+</table>
 
 
 Contacts
