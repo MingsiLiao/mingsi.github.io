@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-download here [CV](files/MingsiLiao_CV_2025_1.pdf)
+You can view or download my CV by clicking the link below: 
+[CV](files/MingsiLiao_CV_2025_1.pdf)
 
 Education
 ======
