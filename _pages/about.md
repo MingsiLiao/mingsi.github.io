@@ -11,10 +11,9 @@ redirect_from:
 
 <div style="font-size: 3em; font-weight: bold; text-align: center; margin-bottom: 20px;">
   Mingsi Liao <br>
-  (廖铭思）
 </div>
 
-
+<br>
 I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) at the [Virginia Tech](https://www.dasc.vt.edu/) [School of Animal Sciences](https://sas.vt.edu/), advised by [Dr. Rebecca Cockrum](https://www.dasc.vt.edu/people/faculty/cockrum.html). My research focuses on leveraging **machine learning**, **bioinformatics**, **computer vision**, and **whole genome sequencing** to advance precision livestock farming and agricultural innovation.
 
 <br>
@@ -51,19 +50,9 @@ I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](ht
 </div>
 
 <br>
-<div style="color: grey;" id="last-updated">Last updated: </div>
+<div style="color: grey;" id="last-updated">Last updated: 12/21/2024</div>
 
-<script>
-  // Get the current date
-  const currentDate = new Date();
 
-  // Format the date (e.g., Month Day, Year)
-  const options = { year: 'numeric', month: 'long', day: 'numeric' };
-  const formattedDate = currentDate.toLocaleDateString(undefined, options);
-
-  // Set the formatted date in the "last-updated" div
-  document.getElementById('last-updated').innerHTML = `Last updated: ${formattedDate}`;
-</script>
 
 
 
