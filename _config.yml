@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Mingsi Liao"
 title_separator          : "-"
-name                     : &name "Mingsi Liao"
+name                     : #&name "Mingsi Liao"
 description              : &description "personal description"
 URL                      : #"https://mingsiliao.github.io//academicpages.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : #"https://www.linkedin.com/in/mingsi-liao-98172a292/"
 author:
   # Biographic information
   avatar           : "mingsi.jpg"
-  name             : "Mingsi Liao"
+  name             : #"Mingsi Liao"
   pronouns         :  "she/her"  
   bio              : "PhD student at Virginia Tech"
   location         : "Blacksburg, VA 24061"
