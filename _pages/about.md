@@ -13,7 +13,7 @@ I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](ht
 
 News
 ======
-/images/diwali-sparkles-stars.gif
+**July 2024** our work on [SNP Analysis of Ovine Johne’s Disease Resistance]( https://www.mdpi.com/1422-0067/25/14/7748) was accepted to International [Journal of Molecular Sciences] (https://www.mdpi.com/journal/ijms)
 
 
 Contacts
