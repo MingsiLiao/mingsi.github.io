@@ -12,7 +12,7 @@ I am a Ph.D. student in Genetics, Bioinformatics, and Computational Biology at V
 
 News
 ======
-![celebration](https://tenor.com/view/diwali-sparkles-stars-confetti-celebrate-fireworks-gif-14463173)
+![celebration](diwali-sparkles-stars.gif)
 
 
 Contacts
