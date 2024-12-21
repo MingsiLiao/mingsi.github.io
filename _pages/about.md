@@ -48,5 +48,4 @@ Recent News
 </div>
 
 
-Contacts
-======
+
