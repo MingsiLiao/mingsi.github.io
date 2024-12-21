@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-download here [CV]()
+download here [CV](MingsiLiao_CV_2025_1.docx)
 
 Education
 ======
