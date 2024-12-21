@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "mingsi.jpg"
   name             : #"Mingsi Liao"
-  pronouns         :  "she/her"  
+  pronouns         :  "she/her/hers"  
   bio              : "PhD student at Virginia Tech"
   location         : "Blacksburg, VA 24061"
   employer         : "Virginia Tech"
   uri              :  #URL
-  email            : "msliao@vt.edu" 
+  email            : msliao@vt.edu
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
