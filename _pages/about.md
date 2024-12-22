@@ -12,11 +12,13 @@ redirect_from:
 <div style="font-size: 3em; font-weight: bold; text-align: center; margin-bottom: 20px;">
   Mingsi Liao <br>
 </div>
+
 <video autoplay muted loop width="800">
   <source src="https://mingsiliao.github.io/academicpages.github.io/_pages/movingCow.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<div style="color: lightgrey; font-size: 10px; opacity: 0.6;">
+
+<div style="color: lightgrey; font-size: 4px; opacity: 0.6;">
   <a href="https://www.pinterest.com/pin/752664156467137786/" style="text-decoration: none;">image source</a>
 </div>
 <br>
