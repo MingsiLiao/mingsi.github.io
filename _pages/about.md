@@ -35,7 +35,7 @@ I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](ht
 <div style="display: grid; grid-template-columns: 150px auto; row-gap: 20px; column-gap: 20px;">
 
   <div style="font-weight: bold;">Jan 2025</div>
-  <div>Scheduled to present our work, <a href="#">Deep Learning vs. Threshold Methods for Calf Weight Prediction</a>, at the <a href="https://intlpag.org/PAG32/">Plant and Animal Genome Conference (PAG)</a> in San Diego, California.</div>
+  <div>Scheduled to present our work, Comparison of Deep Learning and Threshold-Based Methods for Depth Image Segmentation using Extreme Gradient Boosting to Predict Dairy Calf Body Weight, at the <a href="https://intlpag.org/PAG32/">Plant and Animal Genome Conference (PAG)</a> in San Diego, California.</div>
 
   <div style="font-weight: bold;">Nov 2024</div>
   <div>Earned the <a href="https://dac.cs.vt.edu/academics/data-analytics/">Graduate Certificate in Data Analytics</a>.</div>
