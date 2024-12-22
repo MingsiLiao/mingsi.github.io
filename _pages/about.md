@@ -50,7 +50,7 @@ I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](ht
 </div>
 
 <video autoplay muted loop width="800">
-  <source src="/assets/movingCow.mp4" type="video/mp4">
+  <source src="https://mingsiliao.github.io/academicpages.github.io/assets/movingCow.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
