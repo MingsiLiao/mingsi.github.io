@@ -14,7 +14,7 @@ redirect_from:
 </div>
 
 <video autoplay muted loop width="800">
-  <source src="https://mingsiliao.github.io/academicpages.github.io/_pages/movingCow.mp4" type="video/mp4">
+  <source src="https://mingsiliao.github.io/mingsi.github.io/_pages/movingCow.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
