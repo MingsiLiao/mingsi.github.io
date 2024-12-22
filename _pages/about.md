@@ -54,11 +54,5 @@ I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](ht
   Your browser does not support the video tag.
 </video>
 
-
 <br>
 <div style="color: grey;" id="last-updated">Last updated: 12/21/2024</div>
-
-
-
-
-
