@@ -1,8 +1,7 @@
 ---
-layout: default
 title: "Calf Research"
+image: "/images/animal1.png"
+excerpt: ".."
 permalink: /projects/calf-research/
 ---
-<h1>Calf Research</h1>
-<p>Details about calf research...</p>
-
+Details about the Calf Research project go here.
