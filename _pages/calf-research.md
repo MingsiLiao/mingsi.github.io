@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Calf Research"
-permalink: /projects/calf-research/
+permalink: /calf-research.md
 ---
 <h1>Calf Research</h1>
 <p>Details about calf research...</p>
