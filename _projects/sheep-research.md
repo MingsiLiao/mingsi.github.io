@@ -1,8 +1,7 @@
 ---
 title: "Sheep Research"
-date: 2025-01-03
-image: /assets/images/sheep.png
-excerpt: "Breed differentiation and selective sweep analysis in sheep."
+image: "/images/animal3.png"
+excerpt: "Breed differentiation and selective sweep analysis in Royal White and White Dorper sheep."
+permalink: /projects/sheep-research/
 ---
-<h1>Sheep Research</h1>
-<p>Details about sheep research...</p>
+Details about the Sheep Research project go here.
