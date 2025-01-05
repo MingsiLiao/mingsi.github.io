@@ -1,8 +1,7 @@
 ---
 title: "Cow Research"
-date: 2025-01-02
-image: /assets/images/cow.png
-excerpt: "Genetic studies of dairy cows focusing on disease resistance."
+image: "/images/animal2.png"
+excerpt: "Genetic studies of dairy cows focusing on disease resistance and productivity."
+permalink: /projects/cow-research/
 ---
-<h1>Cow Research</h1>
-<p>Details about cow research...</p>
+Details about the Cow Research project go here.
