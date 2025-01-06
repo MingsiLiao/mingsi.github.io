@@ -1,5 +1,21 @@
 ---
 layout: archive
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: false
+---
+
+{% include base_path %}
+
+<div class="portfolio-container">
+  {% for post in site.portfolio %}
+    {% include archive-single.html %}
+  {% endfor %}
+</div>
+
+
+<!-- ---
+layout: archive
 title: ""
 permalink: /portfolio/
 author_profile: false
@@ -11,3 +27,4 @@ author_profile: false
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
+ -->
