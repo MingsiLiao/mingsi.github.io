@@ -1,21 +1,5 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
-author_profile: false
----
-
-{% include base_path %}
-
-<div class="portfolio-container">
-  {% for post in site.portfolio %}
-    {% include archive-single.html %}
-  {% endfor %}
-</div>
-
-
-<!-- ---
-layout: archive
 title: ""
 permalink: /portfolio/
 author_profile: false
@@ -27,4 +11,15 @@ author_profile: false
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
- -->
+
+<!-- Add inline styles for the container to display items left-to-right -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 20px;">
+  {% for post in site.portfolio %}
+    <!-- Add inline styles for individual items -->
+    <div style="flex: 0 1 300px; border: 1px solid #ddd; border-radius: 10px; padding: 15px; text-align: center; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+      {% include archive-single.html %}
+    </div>
+  {% endfor %}
+</div>
+
+
