@@ -1,7 +1,7 @@
 ---
 title: "Calf Research"
 image: "/images/animal1.png"
-excerpt: ".."
+excerpt: "Research on calf health and body weight prediction using AI and threshold segmentation methods."
 permalink: /projects/calf-research/
 ---
-Details about the Calf Research project go here.
+Details about Calf Research go here.
