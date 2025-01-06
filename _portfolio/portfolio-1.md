@@ -1,6 +1,6 @@
 ---
 title: "Calf Projects"
-excerpt: "<br/><img src='/images/animal1.png'>"
+excerpt: "<br/><img src='https://mingsiliao.github.io/mingsi.github.io/images/animal1.png'>"
 collection: portfolio
 ---
 
