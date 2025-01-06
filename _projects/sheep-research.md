@@ -4,4 +4,4 @@ image: "/images/animal3.png"
 excerpt: "Breed differentiation and selective sweep analysis in Royal White and White Dorper sheep."
 permalink: /projects/sheep-research/
 ---
-Details about the Sheep Research project go here.
+Details about Sheep Research go here.
