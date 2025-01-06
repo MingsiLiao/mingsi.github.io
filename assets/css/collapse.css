@@ -15,3 +15,35 @@
     display: none;
     padding : 5px;
 }
+
+.portfolio-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Adjust the min width as needed */
+  gap: 20px; /* Space between items */
+  padding: 20px;
+}
+
+.archive__item {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.archive__item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.archive__item img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.archive__item-title {
+  font-size: 20px;
+  margin-top: 10px;
+}
