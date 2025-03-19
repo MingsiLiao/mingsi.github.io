@@ -22,7 +22,7 @@ redirect_from:
   <a href="https://www.pinterest.com/pin/752664156467137786/" style="text-decoration: none;">image source</a>
 </div>
 <br>
-I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) at [Virginia Tech](https://www.dasc.vt.edu/) [School of Animal Sciences](https://sas.vt.edu/), advised by [Dr. Rebecca Cockrum](https://www.dasc.vt.edu/people/faculty/cockrum.html). My research focuses on leveraging **machine learning**,  **artificial intelligence (AI)**, **computer vision**,**bioinformatics**, **metatranscriptome/metagenome**, and **whole genome sequencing** to advance precision livestock farming and agricultural innovation.
+I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) at [Virginia Tech](https://www.dasc.vt.edu/) [School of Animal Sciences](https://sas.vt.edu/), advised by [Dr. Rebecca Cockrum](https://www.dasc.vt.edu/people/faculty/cockrum.html). My research focuses on leveraging **machine learning**,  **artificial intelligence (AI)**, **computer vision**, **bioinformatics**, **metatranscriptome/metagenome**, and **whole genome sequencing** to advance precision livestock farming and agricultural innovation.
 
 <br>
 
@@ -70,4 +70,4 @@ I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](ht
 
 
 <br>
-<div style="color: grey;" id="last-updated">Last updated: 1/9/2025</div>
+<div style="color: grey;" id="last-updated">Last updated: 3/19/2025</div>
