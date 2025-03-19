@@ -34,7 +34,7 @@ I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](ht
 
 <div style="display: grid; grid-template-columns: 150px auto; row-gap: 20px; column-gap: 20px;">
   <div style="font-weight: bold;">July 2025</div>
-  <div>Scheduled to present our work, "Genome-Wide Characterization of SNPs and Indels in Royal White and White Dorper Sheep Using Whole-Genome Sequencing" at <a href="https://www.asas.org/meetings/annual-2025">American Society of Animal Science (ASAS)</a> </div>
+  <div>Scheduled to present our work, "Genome-Wide Characterization of SNPs and Indels in Royal White and White Dorper Sheep Using Whole-Genome Sequencing" at <a href="https://www.asas.org/meetings/annual-2025">American Society of Animal Science (ASAS) conference.</a> </div>
  
   
   <div style="font-weight: bold;">March 2025</div>
@@ -70,4 +70,4 @@ I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](ht
 
 
 <br>
-<div style="color: grey;" id="last-updated">Last updated: 3/19/2025</div>
+<div style="color: grey;" id="last-updated">Last updated: 2025/3</div>
