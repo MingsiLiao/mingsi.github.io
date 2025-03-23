@@ -41,7 +41,7 @@ I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](ht
   <div>Our work on <a href="https://doi.org/10.3390/ani15060868">Dairy Calf Body Weight Prediction</a> was accepted to the <a href="https://www.mdpi.com/journal/animals">Animals</a>.</div>
   
   <div style="font-weight: bold;">March 2025</div>
-  <div>Presented our work, "Predicting Dairy Calf Body Weight from Depth Images Using Deep Learning and Threshold Segmentation with Cross-Validation and Longitudinal Analysis", at Genetic, Bioinformatics and Computational Biology seminar.</div>
+  <div>Presented our work, "Predicting Dairy Calf Body Weight from Depth Images Using Deep Learning and Threshold Segmentation with Cross-Validation and Longitudinal Analysis", at Genetic, Bioinformatics and Computational Biology seminar, Virginia Tech, Blacksburg, Virginia.</div>
 
   
   <div style="font-weight: bold;">Jan 2025</div>
