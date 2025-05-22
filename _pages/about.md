@@ -33,9 +33,13 @@ I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](ht
 
 
 <div style="display: grid; grid-template-columns: 150px auto; row-gap: 20px; column-gap: 20px;">
+
+ 
   <div style="font-weight: bold;">July 2025</div>
   <div>Scheduled to present our work, "Genome-Wide Characterization of SNPs and Indels in Royal White and White Dorper Sheep Using Whole-Genome Sequencing" at <a href="https://www.asas.org/meetings/annual-2025">American Society of Animal Science (ASAS) conference.</a> </div>
  
+  <div style="font-weight: bold;">May 2025</div>
+  <div>Awarded the NRSP8 Summer Fellowship Grant to support my research in AI-based monitoring of dairy calf health.</div>
   
   <div style="font-weight: bold;">March 2025</div>
   <div>Our work on <a href="https://doi.org/10.3390/ani15060868">Dairy Calf Body Weight Prediction</a> was accepted to the <a href="https://www.mdpi.com/journal/animals">Animals</a>.</div>
@@ -70,4 +74,4 @@ I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](ht
 
 
 <br>
-<div style="color: grey;" id="last-updated">Last updated: 2025/3</div>
+<div style="color: grey;" id="last-updated">Last updated: 2025/5</div>
