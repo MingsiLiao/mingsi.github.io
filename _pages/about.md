@@ -22,7 +22,9 @@ redirect_from:
   <a href="https://www.pinterest.com/pin/752664156467137786/" style="text-decoration: none;">image source</a>
 </div>
 <br>
-I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) at [Virginia Tech](https://www.dasc.vt.edu/) [School of Animal Sciences](https://sas.vt.edu/), advised by [Dr. Rebecca Cockrum](https://www.dasc.vt.edu/people/faculty/cockrum.html). My research focuses on leveraging **Genomics & Sequencing Technologies** (NGS/Metatranscriptomic/Whole Genome Sequencing) and **Artificial Intelligence** (Machine Learning/Deep Learning/Computer Vision), to advance precision livestock farming and agricultural innovation.
+
+
+Ph.D. in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) & [MEng in Computer Science](https://iac.vt.edu/masters-degrees/meng-cs.html) at [Virginia Tech](https://www.dasc.vt.edu/), advised by [Dr. Rebecca Cockrum](https://www.dasc.vt.edu/people/faculty/cockrum.html). I develop Artificial Intelligence and high-performance computing methods for large-scale omics and image data, focusing on robust predictive modeling, computer vision pipelines, and deployable analytics for next generation sequencing (NGS)-based biological health and behavior.
 
 <br>
 
@@ -42,7 +44,7 @@ I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](ht
   <div>Awarded the NRSP8 Summer Fellowship Grant to support my research in AI-based monitoring of dairy calf health.</div>
   
   <div style="font-weight: bold;">March 2025</div>
-  <div>Our work on <a href="https://doi.org/10.3390/ani15060868">Dairy Calf Body Weight Prediction</a> was accepted to the <a href="https://www.mdpi.com/journal/animals">Animals</a>.</div>
+  <div>Our work on <a href="https://doi.org/10.3390/ani15060868">Deep Learning Methods for Dairy Calf Body Weight Prediction</a> was accepted to the <a href="https://www.mdpi.com/journal/animals">Animals</a>.</div>
   
   <div style="font-weight: bold;">March 2025</div>
   <div>Presented our work, "Predicting Dairy Calf Body Weight from Depth Images Using Deep Learning and Threshold Segmentation with Cross-Validation and Longitudinal Analysis", at Genetic, Bioinformatics and Computational Biology seminar, Virginia Tech, Blacksburg, Virginia.</div>
@@ -74,4 +76,4 @@ I am a Ph.D. student in [Genetics, Bioinformatics, and Computational Biology](ht
 
 
 <br>
-<div style="color: grey;" id="last-updated">Last updated: 2025/5</div>
+<div style="color: grey;" id="last-updated">Last updated: 2025/9</div>
