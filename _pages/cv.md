@@ -11,7 +11,7 @@ redirect_from:
 
 You can view or download my CV by clicking the link below:
 
-[📄 MingsiLiao_CV](MingsiLiao_CV_2025_1.pdf)
+[📄 MingsiLiao_CV (PDF)](MingsiLiao_CV_2025_1.pdf)
 
 
 
