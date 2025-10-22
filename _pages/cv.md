@@ -11,7 +11,7 @@ redirect_from:
 
 You can view or download my CV by clicking the link below:
 
-[Download CV (PDF)]({{ "MingsiLiao_CV_2025_1.pdf" | relative_url }}){:download}
+[Download CV (PDF)]({ "MingsiLiao_CV_2025_1.pdf" | relative_url }){:download}
 
 <!-- 🧾 Embedded PDF Viewer -->
 <div style="margin-top: 1rem; text-align: center;">
