@@ -18,7 +18,7 @@ redirect_from:
     data="https://mingsiliao.github.io/mingsi.github.io/_pages/MingsiLiao_CV_2025_1.pdf#view=FitH"
     type="application/pdf"
     width="100%"
-    height="1000px">
+    height="800px">
     <iframe 
       src="https://mingsiliao.github.io/mingsi.github.io/_pages/MingsiLiao_CV_2025_1.pdf#view=FitH"
       width="100%"
