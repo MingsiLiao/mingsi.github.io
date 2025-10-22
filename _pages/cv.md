@@ -15,7 +15,6 @@ You can view or download my CV by clicking the link below:
 
 
 
-<!-- 🧾 Inline PDF Viewer -->
 <div style="margin-top: 2rem;">
   <object 
     data="https://mingsiliao.github.io/mingsi.github.io/_pages/MingsiLiao_CV_2025_1.pdf#view=FitH"
@@ -33,6 +32,5 @@ You can view or download my CV by clicking the link below:
     </iframe>
   </object>
 </div>
-
  
 
