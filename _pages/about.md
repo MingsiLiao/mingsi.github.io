@@ -24,7 +24,7 @@ redirect_from:
 <br>
 
 
-Ph.D. in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) & [MEng in Computer Science](https://iac.vt.edu/masters-degrees/meng-cs.html) at [Virginia Tech](https://www.dasc.vt.edu/), advised by [Dr. Rebecca Cockrum](https://www.dasc.vt.edu/people/faculty/cockrum.html). I develop Artificial Intelligence and high-performance computing methods for large-scale omics and image data, focusing on robust predictive modeling, computer vision pipelines, and deployable analytics for next generation sequencing (NGS)-based biological health and behavior.
+Ph.D. in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) & M.Eng. [in Computer Science](https://iac.vt.edu/masters-degrees/meng-cs.html) at [Virginia Tech](https://www.dasc.vt.edu/), advised by [Dr. Rebecca Cockrum](https://www.dasc.vt.edu/people/faculty/cockrum.html). I develop Artificial Intelligence and high-performance computing methods for large-scale omics and image data, focusing on robust predictive modeling, computer vision pipelines, and deployable analytics for next generation sequencing (NGS)-based biological health and behavior.
 
 <br>
 
@@ -38,7 +38,7 @@ Ph.D. in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) 
 
  
   <div style="font-weight: bold;">July 2025</div>
-  <div>Scheduled to present our work, "Genome-Wide Characterization of SNPs and Indels in Royal White and White Dorper Sheep Using Whole-Genome Sequencing" at <a href="https://www.asas.org/meetings/annual-2025">American Society of Animal Science (ASAS) conference.</a> </div>
+  <div>Presented our work, "Genome-Wide Characterization of SNPs and Indels in Royal White and White Dorper Sheep Using Whole-Genome Sequencing" at <a href="https://www.asas.org/meetings/annual-2025">American Society of Animal Science (ASAS) conference.</a> </div>
  
   <div style="font-weight: bold;">May 2025</div>
   <div>Awarded the NRSP8 Summer Fellowship Grant to support my research in AI-based monitoring of dairy calf health.</div>
