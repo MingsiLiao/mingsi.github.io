@@ -9,24 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-You can view or download my CV by clicking the link below:
-
-[Download CV (PDF)]({ "MingsiLiao_CV_2025_1.pdf" | relative_url }){:download}
-
-<!-- 🧾 Embedded PDF Viewer -->
-<div style="margin-top: 1rem; text-align: center;">
-  <object data="{{ 'MingsiLiao_CV_2025_1.pdf' | relative_url }}" 
-          type="application/pdf" 
-          width="100%" 
-          height="1000px">
-    <iframe src="{{ 'MingsiLiao_CV_2025_1.pdf' | relative_url }}" 
-            width="100%" 
-            height="1000px">
+<!-- 🧾 Embedded PDF viewer -->
+<div style="margin-top: 1rem;">
+  <object
+    data="{{ 'MingsiLiao_CV_2025_1.pdf#view=FitH' | relative_url }}"
+    type="application/pdf"
+    width="100%"
+    height="1000px">
+    <iframe
+      src="{{ 'MingsiLiao_CV_2025_1.pdf#view=FitH' | relative_url }}"
+      width="100%"
+      height="1000px">
       <p>
-        Your browser does not support inline PDF viewing.
+        Your browser can’t display PDFs inline.
         Please <a href="{{ 'MingsiLiao_CV_2025_1.pdf' | relative_url }}">download the file</a>.
       </p>
     </iframe>
   </object>
 </div>
 
+---
+
+You can also download the CV directly here:  
+[📄 MingsiLiao_CV_2025_1.pdf]({{ 'MingsiLiao_CV_2025_1.pdf' | relative_url }})
