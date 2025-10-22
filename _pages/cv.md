@@ -22,7 +22,7 @@ redirect_from:
       height="1000px">
       <p>
         Your browser can’t display PDFs inline.
-        Please <a href="{{ 'MingsiLiao_CV_2025_1.pdf' | relative_url }}">download the file</a>.
+        Please <a href="{'MingsiLiao_CV_2025_1.pdf'}">download the file</a>.
       </p>
     </iframe>
   </object>
