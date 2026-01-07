@@ -40,7 +40,7 @@ Ph.D. in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) 
   <div>
   Invited to present our work, "Vision-Based Monitoring of Diarrhea in Pre-Weaning Dairy Calves," at the 
   <a href="https://www.intlpag.org">Plant & Animal Genome Conference (PAG 33)</a>, 
-  San Diego, CA.
+  San Diego, California
   </div>
 
   <div style="font-weight: bold;">July 2025</div>
@@ -57,7 +57,7 @@ Ph.D. in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) 
 
   
   <div style="font-weight: bold;">Jan 2025</div>
-  <div>Presented our work, "Comparison of Deep Learning and Threshold-Based Methods for Depth Image Segmentation using Extreme Gradient Boosting to Predict Dairy Calf Body Weight", at the <a href="https://intlpag.org/PAG32/">Plant and Animal Genome Conference (PAG)</a> in San Diego, California.</div>
+  <div>Presented our work, "Comparison of Deep Learning and Threshold-Based Methods for Depth Image Segmentation using Extreme Gradient Boosting to Predict Dairy Calf Body Weight", at the <a href="https://intlpag.org/PAG32/">Plant and Animal Genome Conference (PAG)</a>, San Diego, California.</div>
 
   <div style="font-weight: bold;">Nov 2024</div>
   <div>Earned the <a href="https://dac.cs.vt.edu/academics/data-analytics/">Graduate Certificate in Data Analytics</a>.</div>
