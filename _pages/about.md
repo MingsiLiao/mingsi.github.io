@@ -36,7 +36,13 @@ Ph.D. in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) 
 
 <div style="display: grid; grid-template-columns: 150px auto; row-gap: 20px; column-gap: 20px;">
 
- 
+ <div style="font-weight: bold;">Jan 2026</div>
+  <div>
+  Invited to present our work, "Vision-Based Monitoring of Diarrhea in Pre-Weaning Dairy Calves," at the 
+  <a href="https://www.intlpag.org">Plant & Animal Genome Conference (PAG 33)</a>, 
+  San Diego, CA.
+  </div>
+
   <div style="font-weight: bold;">July 2025</div>
   <div>Presented our work, "Genome-Wide Characterization of SNPs and Indels in Royal White and White Dorper Sheep Using Whole-Genome Sequencing" at <a href="https://www.asas.org/meetings/annual-2025">American Society of Animal Science (ASAS) conference.</a> </div>
  
