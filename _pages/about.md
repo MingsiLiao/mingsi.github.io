@@ -28,6 +28,8 @@ Ph.D. in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) 
 
 <br>
 
+[📄 Download MingsiLiao_CV (PDF)](MingsiLiao_CV_2026.pdf)
+
 
 <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">
   Recent News
