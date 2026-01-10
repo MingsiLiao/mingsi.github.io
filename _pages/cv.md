@@ -15,7 +15,7 @@ redirect_from:
 
 <div style="margin-top: 2rem;">
   <object 
-    data="https://mingsiliao.github.io/mingsi.github.io/_pages/MingsiLiao_CV_2025_1.pdf#view=FitH"
+    data="https://mingsiliao.github.io/mingsi.github.io/_pages/MingsiLiao_CV_2026.pdf#view=FitH"
     type="application/pdf"
     width="100%"
     height="800px">
