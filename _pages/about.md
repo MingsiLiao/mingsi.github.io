@@ -74,7 +74,7 @@ Ph.D. student in [Computational Biology](https://gbcb.graduateschool.vt.edu/abou
   <div><strong>[New Paper]</strong> Our work on <a href="https://www.mdpi.com/1422-0067/25/14/7748">SNP Analysis of Ovine Johne’s Disease Resistance</a> was accepted to the <a href="https://www.mdpi.com/journal/ijms">International Journal of Molecular Sciences</a>.</div>
 
   <div style="font-weight: bold;">June 2024</div>
-  <div>Presented our work, Dietary Crude Protein is Independent of Rumen Microbial Community Ecology in Lactating Dairy Cows, at the <a href="https://www.adsa.org/">American Dairy Science Association (ADSA) Annual Meeting</a> at West Palm Beach, FL.</div>
+  <div><strong>[Conference]</strong> Presented our work, Dietary Crude Protein is Independent of Rumen Microbial Community Ecology in Lactating Dairy Cows, at the <a href="https://www.adsa.org/">American Dairy Science Association (ADSA) Annual Meeting</a> at West Palm Beach, FL.</div>
 
   <div style="font-weight: bold;">May 2024</div>
   <div><strong>[Conference]</strong> Presented our work, "Camera-Based Monitoring of Dairy Calf Health and Growth: Phenotyping Techniques Applied", at Research Day, School of Animal Science, Virginia Tech, Blacksburg, VA.</div>
