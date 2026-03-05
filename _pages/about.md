@@ -40,7 +40,7 @@ Ph.D. student in [Computational Biology](https://gbcb.graduateschool.vt.edu/abou
 
 <div style="font-weight: bold;">March 2026</div>
   <div>
-  <strong>[New Paper]</strong> First WGS comparison of Royal White and White Dorper sheep reveals breed-specific variants linked to health and production traits → 
+  <strong>[Publication]</strong> First WGS comparison of Royal White and White Dorper sheep reveals breed-specific variants linked to health and production traits → 
   <a href="https://www.mdpi.com/2076-2615/16/5/811">Paper Link</a>.
     
   </div>
@@ -58,7 +58,7 @@ Ph.D. student in [Computational Biology](https://gbcb.graduateschool.vt.edu/abou
   <div><strong>[Grant]</strong> Awarded the NRSP8 Summer Fellowship Grant to support my research in AI-based monitoring of dairy calf health.</div>
   
   <div style="font-weight: bold;">March 2025</div>
-  <div><strong>[New Paper]</strong> Our work on <a href="https://doi.org/10.3390/ani15060868">Deep Learning Methods for Dairy Calf Body Weight Prediction</a> was accepted to the <a href="https://www.mdpi.com/journal/animals">Animals</a>.</div>
+  <div><strong>[Publication]</strong> Our work on <a href="https://doi.org/10.3390/ani15060868">Deep Learning Methods for Dairy Calf Body Weight Prediction</a> was accepted to the <a href="https://www.mdpi.com/journal/animals">Animals</a>.</div>
   
   <div style="font-weight: bold;">March 2025</div>
   <div><strong>[Seminar]</strong> Presented our work, "Predicting Dairy Calf Body Weight from Depth Images Using Deep Learning and Threshold Segmentation with Cross-Validation and Longitudinal Analysis", at Genetic, Bioinformatics and Computational Biology seminar, Virginia Tech, Blacksburg, VA.</div>
@@ -71,7 +71,7 @@ Ph.D. student in [Computational Biology](https://gbcb.graduateschool.vt.edu/abou
   <div><strong>[Certification]</strong> Earned the <a href="https://dac.cs.vt.edu/academics/data-analytics/">Graduate Certificate in Data Analytics</a>.</div>
 
   <div style="font-weight: bold;">July 2024</div>
-  <div><strong>[New Paper]</strong> Our work on <a href="https://www.mdpi.com/1422-0067/25/14/7748">SNP Analysis of Ovine Johne’s Disease Resistance</a> was accepted to the <a href="https://www.mdpi.com/journal/ijms">International Journal of Molecular Sciences</a>.</div>
+  <div><strong>[Publication]</strong> Our work on <a href="https://www.mdpi.com/1422-0067/25/14/7748">SNP Analysis of Ovine Johne’s Disease Resistance</a> was accepted to the <a href="https://www.mdpi.com/journal/ijms">International Journal of Molecular Sciences</a>.</div>
 
   <div style="font-weight: bold;">June 2024</div>
   <div><strong>[Conference]</strong> Presented our work, Dietary Crude Protein is Independent of Rumen Microbial Community Ecology in Lactating Dairy Cows, at the <a href="https://www.adsa.org/">American Dairy Science Association (ADSA) Annual Meeting</a> at West Palm Beach, FL.</div>
