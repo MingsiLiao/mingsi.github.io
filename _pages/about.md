@@ -41,8 +41,7 @@ Ph.D. in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) 
 <div style="font-weight: bold;">March 2026</div>
   <div>
   Paper alert: First WGS comparison of Royal White and White Dorper sheep reveals breed-specific variants linked to health and production traits → 
-  <a href="https://www.mdpi.com/2076-2615/16/5/811">Paper Link</a>, 
-  San Diego, CA.
+  <a href="https://www.mdpi.com/2076-2615/16/5/811">Paper Link</a>.
     
   </div>
  <div style="font-weight: bold;">Jan 2026</div>
