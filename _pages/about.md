@@ -24,7 +24,7 @@ redirect_from:
 <br>
 
 
-Ph.D. student in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) & M.Eng. student in [Computer Science](https://iac.vt.edu/masters-degrees/meng-cs.html) at [Virginia Tech](https://www.dasc.vt.edu/), advised by [Dr. Rebecca Cockrum](https://www.dasc.vt.edu/people/faculty/cockrum.html). I develop Artificial Intelligence and high-performance computing methods for large-scale omics and image data, focusing on robust predictive modeling, computer vision pipelines, and deployable analytics for next generation sequencing (NGS)-based biological health and behavior.
+Ph.D. student in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) & M.Eng. student in [Computer Science](https://iac.vt.edu/masters-degrees/meng-cs.html) at [Virginia Tech](https://www.dasc.vt.edu/), advised by [Dr. Rebecca Cockrum (Animal Science)](https://www.dasc.vt.edu/people/faculty/cockrum.html) and co-advised by [Dr. Chris Thomas (Computer Science)](https://people.cs.vt.edu/chris/). I develop Artificial Intelligence and high-performance computing methods for large-scale omics and image data, focusing on robust predictive modeling, computer vision pipelines, and deployable analytics for next generation sequencing (NGS)-based biological health and behavior.
 
 <br>
 
