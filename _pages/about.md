@@ -24,7 +24,7 @@ redirect_from:
 <br>
 
 
-Ph.D. student in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) & M.Eng. student in [Computer Science](https://iac.vt.edu/masters-degrees/meng-cs.html) at [Virginia Tech](https://www.dasc.vt.edu/), advised by [Dr. Rebecca Cockrum (Animal Science)](https://www.dasc.vt.edu/people/faculty/cockrum.html) and co-advised by [Dr. Chris Thomas (Computer Science)](https://people.cs.vt.edu/chris/). 
+Ph.D. candidate in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) & M.Eng. student in [Computer Science](https://iac.vt.edu/masters-degrees/meng-cs.html) at [Virginia Tech](https://www.dasc.vt.edu/), advised by [Dr. Rebecca Cockrum (Animal Science)](https://www.dasc.vt.edu/people/faculty/cockrum.html) and co-advised by [Dr. Chris Thomas (Computer Science)](https://people.cs.vt.edu/chris/). 
 
 <strong>Research focus:</strong> NGS to uncover biological insights • AI to improve decision-making
 <br>
