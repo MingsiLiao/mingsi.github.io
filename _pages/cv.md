@@ -9,20 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-[📄 View / Download MingsiLiao_CV](https://www.overleaf.com/read/btwhnbncwpnx#21cc5e)
+[📄 View Latest CV on Overleaf](https://www.overleaf.com/read/btwhnbncwpnx#21cc5e)
 
 <div style="margin-top: 2rem;">
-  <iframe 
-    src="https://www.overleaf.com/read/btwhnbncwpnx#21cc5e"
+  <object
+    data="/files/MingsiLiao_CV_2026.pdf#view=FitH"
+    type="application/pdf"
     width="100%"
-    height="1000px"
-    style="border:none;">
-  </iframe>
+    height="1000px">
 
-  <p style="margin-top: 1rem;">
-    If the CV does not display above, please
-    <a href="https://www.overleaf.com/read/btwhnbncwpnx#21cc5e" target="_blank">
-      click here to open it directly
-    </a>.
-  </p>
+    <iframe
+      src="/files/MingsiLiao_CV_2026.pdf#view=FitH"
+      width="100%"
+      height="1000px">
+
+      <p>
+        Your browser cannot display PDFs inline.
+        Please
+        <a href="/files/MingsiLiao_CV_2026.pdf">
+          download the PDF
+        </a>.
+      </p>
+
+    </iframe>
+  </object>
 </div>
