@@ -9,25 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-
-[📄 Download MingsiLiao_CV (PDF)](https://www.overleaf.com/read/btwhnbncwpnx#21cc5e)
-
+[📄 View / Download MingsiLiao_CV](https://www.overleaf.com/read/btwhnbncwpnx#21cc5e)
 
 <div style="margin-top: 2rem;">
-  <object å
-    data="https://www.overleaf.com/read/btwhnbncwpnx#21cc5e"
-    type="application/pdf"
+  <iframe
+    src="https://www.overleaf.com/read/btwhnbncwpnx#21cc5e"
     width="100%"
-    height="800px">
-    <iframe 
-      src="https://www.overleaf.com/read/btwhnbncwpnx#21cc5e"
-      width="100%"
-      height="1000px">
-      <p>
-        Your browser cannot display PDFs inline.  
-        Please <a href="https://www.overleaf.com/read/btwhnbncwpnx#21cc5e">download the file</a>.
-      </p>
-    </iframe>
-  </object>
+    height="1000px"
+    style="border:none;">
+  </iframe>
 </div>
- 
