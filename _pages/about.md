@@ -39,7 +39,7 @@ Ph.D. candidate in [Computational Biology](https://gbcb.graduateschool.vt.edu/ab
 
 <div style="display: grid; grid-template-columns: 150px auto; row-gap: 20px; column-gap: 20px;">
 
-  <div style="font-weight: bold;">March 2025</div>
+  <div style="font-weight: bold;">March 2026</div>
   <div><strong>[Seminar]</strong> Presented our work, "Whole-Genome Sequencing Reveals Breed-Specific SNPs, Indels, and Signatures of Selection in Royal White and White Dorper Sheep.", at Genetic, Bioinformatics and Computational Biology seminar, Virginia Tech, Blacksburg, VA.</div>
 
 
