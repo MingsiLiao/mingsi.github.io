@@ -15,12 +15,12 @@ redirect_from:
 
 <div style="margin-top: 2rem;">
   <object å
-    data="https://www.overleaf.com/read/btwhnbncwpnx#21cc5e#view=FitH"
+    data="https://www.overleaf.com/read/btwhnbncwpnx#21cc5e"
     type="application/pdf"
     width="100%"
     height="800px">
     <iframe 
-      src="https://www.overleaf.com/read/btwhnbncwpnx#21cc5e#view=FitH"
+      src="https://www.overleaf.com/read/btwhnbncwpnx#21cc5e"
       width="100%"
       height="1000px">
       <p>
