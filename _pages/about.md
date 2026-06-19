@@ -48,6 +48,11 @@ while continuing Ph.D. studies in Computational Biology.
 </div>
 
 <div style="font-weight: bold;">March 2026</div>
+<div>
+<strong>[Academic Milestone]</strong> Successfully passed the Ph.D. Preliminary Examination in Genetics, Bioinformatics, and Computational Biology (GBCB) at Virginia Tech.
+</div>
+
+<div style="font-weight: bold;">March 2026</div>
   <div>
   <strong>[Publication]</strong> First WGS comparison of Royal White and White Dorper sheep reveals breed-specific variants linked to health and production traits → 
   <a href="https://www.mdpi.com/2076-2615/16/5/811">Paper Link</a>.
