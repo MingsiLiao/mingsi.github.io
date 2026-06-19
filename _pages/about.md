@@ -23,8 +23,7 @@ redirect_from:
 </div>
 <br>
 
-
-Ph.D. candidate in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) & M.Eng. student in [Computer Science](https://iac.vt.edu/masters-degrees/meng-cs.html) at [Virginia Tech](https://www.dasc.vt.edu/), advised by [Dr. Rebecca Cockrum (Animal Science)](https://www.dasc.vt.edu/people/faculty/cockrum.html) and co-advised by [Dr. Chris Thomas (Computer Science)](https://people.cs.vt.edu/chris/). 
+Ph.D. candidate in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) and holder of a Master of Engineering in [Computer Science and Applications](https://iac.vt.edu/masters-degrees/meng-cs.html) (Data Analytics and Artificial Intelligence) from the [Virginia Tech Department of Computer Science](https://cs.vt.edu/), advised by [Dr. Rebecca Cockrum (Animal Science)](https://www.dasc.vt.edu/people/faculty/cockrum.html) and co-advised by [Dr. Chris Thomas (Computer Science)](https://people.cs.vt.edu/chris/).
 
 <strong>Research focus:</strong> NGS to uncover biological insights • AI to improve decision-making
 <br>
@@ -36,12 +35,23 @@ Ph.D. candidate in [Computational Biology](https://gbcb.graduateschool.vt.edu/ab
   Recent News
 </div>
 
+<div style="font-weight: bold;">May 2026</div>
+<div>
+<strong>[Degree]</strong> Earned the [Master of Engineering](https://iac.vt.edu/masters-degrees/meng-cs.html) in Computer Science and Applications</a>
+(Concentration: Data Analytics and Artificial Intelligence) from [Virginia Tech Department of Computer Science](https://cs.vt.edu/) while continuing Ph.D. studies in Computational Biology.
+</div>
+
 
 <div style="display: grid; grid-template-columns: 150px auto; row-gap: 20px; column-gap: 20px;">
 
   <div style="font-weight: bold;">March 2026</div>
   <div><strong>[Seminar]</strong> Presented our work, "Whole-Genome Sequencing Reveals Breed-Specific SNPs, Indels, and Signatures of Selection in Royal White and White Dorper Sheep.", at Genetic, Bioinformatics and Computational Biology seminar, Virginia Tech, Blacksburg, VA.</div>
 
+
+<div style="font-weight: bold;">March 2026</div>
+<div>
+<strong>[Milestone]</strong> Passed the Ph.D. Preliminary Examination in Genetics, Bioinformatics, and Computational Biology (GBCB) at Virginia Tech.
+</div>
 
 
 <div style="font-weight: bold;">March 2026</div>
