@@ -23,9 +23,9 @@ redirect_from:
 </div>
 <br>
 
-Ph.D. candidate in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) and holder of a Master of Engineering in [Computer Science and Applications](https://iac.vt.edu/masters-degrees/meng-cs.html) (Data Analytics and Artificial Intelligence) from the [Virginia Tech Department of Computer Science](https://cs.vt.edu/), advised by [Dr. Rebecca Cockrum (Animal Science)](https://www.dasc.vt.edu/people/faculty/cockrum.html) and co-advised by [Dr. Chris Thomas (Computer Science)](https://people.cs.vt.edu/chris/).
+Ph.D. candidate in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) and recipient of a Master of Engineering in [Computer Science and Applications](https://iac.vt.edu/masters-degrees/meng-cs.html) (Data Analytics and Artificial Intelligence) from the [Virginia Tech Department of Computer Science](https://cs.vt.edu/). I am advised by [Dr. Rebecca Cockrum](https://www.dasc.vt.edu/people/faculty/cockrum.html) and co-advised by [Dr. Chris Thomas](https://people.cs.vt.edu/chris/), conducting interdisciplinary research at the intersection of artificial intelligence, computer vision, animal science, and computational biology.
 
-<strong>Research focus:</strong> NGS to uncover biological insights • AI to improve decision-making
+<strong>Research focus:</strong> Applying AI, computer vision, and multimodal data analytics to improve animal health, welfare, and precision livestock management.
 <br>
 
 [📄 Download MingsiLiao_CV (PDF)](MingsiLiao_CV_2026.pdf)
