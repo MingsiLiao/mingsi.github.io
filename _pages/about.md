@@ -47,10 +47,7 @@ in Computer Science and Applications (Concentration: Data Analytics and Artifici
 while continuing Ph.D. studies in Computational Biology.
 </div>
 
-<div style="font-weight: bold;">March 2026</div>
-<div>
-<strong>[Academic Milestone]</strong> Successfully passed the Ph.D. Preliminary Examination in Genetics, Bioinformatics, and Computational Biology (GBCB) at Virginia Tech.
-</div>
+
 
 <div style="font-weight: bold;">March 2026</div>
   <div>
@@ -58,6 +55,12 @@ while continuing Ph.D. studies in Computational Biology.
   <a href="https://www.mdpi.com/2076-2615/16/5/811">Paper Link</a>.
 
   </div>
+
+<div style="font-weight: bold;">March 2026</div>
+<div>
+<strong>[Academic Milestone]</strong> Successfully passed the Ph.D. Preliminary Examination in Genetics, Bioinformatics, and Computational Biology (GBCB) at Virginia Tech.
+</div>
+ 
  <div style="font-weight: bold;">Jan 2026</div>
   <div>
   <strong>[Invited Talk]</strong> Invited to present our work, "Vision-Based Monitoring of Diarrhea in Pre-Weaning Dairy Calves," at the 
