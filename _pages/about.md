@@ -34,25 +34,12 @@ Ph.D. candidate in [Computational Biology](https://gbcb.graduateschool.vt.edu/ab
 <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">
   Recent News
 </div>
-
-<div style="font-weight: bold;">May 2026</div>
-<div>
-<strong>[Degree]</strong> Earned the
-<a href="https://iac.vt.edu/masters-degrees/meng-cs.html">Master of Engineering</a>
-in Computer Science and Applications (Concentration: Data Analytics and Artificial Intelligence) from the
-<a href="https://cs.vt.edu/">Virginia Tech Department of Computer Science</a>
-while continuing Ph.D. studies in Computational Biology.
-</div>
-
+ 
 
 <div style="font-weight: bold;">March 2026</div>
   <div><strong>[Seminar]</strong> Presented our work, "Whole-Genome Sequencing Reveals Breed-Specific SNPs, Indels, and Signatures of Selection in Royal White and White Dorper Sheep.", at Genetic, Bioinformatics and Computational Biology seminar, Virginia Tech, Blacksburg, VA.</div>
 
-
-<div style="font-weight: bold;">March 2026</div>
-<div>
-<strong>[Milestone]</strong> Passed the Ph.D. Preliminary Examination in Genetics, Bioinformatics, and Computational Biology (GBCB) at Virginia Tech.
-</div>
+ 
 
 
 <div style="font-weight: bold;">March 2026</div>
