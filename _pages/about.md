@@ -37,8 +37,11 @@ Ph.D. candidate in [Computational Biology](https://gbcb.graduateschool.vt.edu/ab
 
 <div style="font-weight: bold;">May 2026</div>
 <div>
-<strong>[Degree]</strong> Earned the [Master of Engineering](https://iac.vt.edu/masters-degrees/meng-cs.html) in Computer Science and Applications 
-(Concentration: Data Analytics and Artificial Intelligence) from [Virginia Tech Department of Computer Science](https://cs.vt.edu/) while continuing Ph.D. studies in Computational Biology.
+<strong>[Degree]</strong> Earned the
+<a href="https://iac.vt.edu/masters-degrees/meng-cs.html">Master of Engineering</a>
+in Computer Science and Applications (Concentration: Data Analytics and Artificial Intelligence) from the
+<a href="https://cs.vt.edu/">Virginia Tech Department of Computer Science</a>
+while continuing Ph.D. studies in Computational Biology.
 </div>
 
 
