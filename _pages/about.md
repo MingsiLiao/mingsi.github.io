@@ -38,6 +38,15 @@ Ph.D. candidate in [Computational Biology](https://gbcb.graduateschool.vt.edu/ab
 
 <div style="display: grid; grid-template-columns: 150px auto; row-gap: 20px; column-gap: 20px;">
 
+<div style="font-weight: bold;">May 2026</div>
+<div>
+<strong>[Degree]</strong> Earned the
+<a href="https://iac.vt.edu/masters-degrees/meng-cs.html">Master of Engineering</a>
+in Computer Science and Applications (Concentration: Data Analytics and Artificial Intelligence) from the
+<a href="https://cs.vt.edu/">Virginia Tech Department of Computer Science</a>
+while continuing Ph.D. studies in Computational Biology.
+</div>
+
 <div style="font-weight: bold;">March 2026</div>
   <div>
   <strong>[Publication]</strong> First WGS comparison of Royal White and White Dorper sheep reveals breed-specific variants linked to health and production traits → 
