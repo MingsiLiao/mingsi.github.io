@@ -1,0 +1,477 @@
+---
+
+layout: default
+title: "Computer Vision-Based Diarrhea Detection"
+permalink: /projects/diarrhea-detection/
+----------------------------------------
+
+<div class="project-page">
+
+  <div class="project-header">
+    <p class="project-category">AI & Computer Vision</p>
+    <h1>Computer Vision-Based Diarrhea Detection in Dairy Calves</h1>
+    <p class="project-summary">
+      An automated image-based research project for dairy calf diarrhea identification using rear-end images
+      collected at automatic milk feeders, supervised computer vision models, and large vision-language models.
+    </p>
+  </div>
+
+  <div class="project-tags">
+    <span>Computer Vision</span>
+    <span>Deep Learning</span>
+    <span>Vision-Language Models</span>
+    <span>Animal Health</span>
+    <span>Precision Livestock Farming</span>
+  </div>
+
+  <section>
+    <h2>Project Overview</h2>
+
+```
+<p>
+  Calf diarrhea is one of the most important health challenges in pre-weaning dairy calves.
+  Traditional detection relies on manual observation, which can be subjective, time-consuming,
+  and difficult to scale in modern dairy operations.
+</p>
+
+<p>
+  This project investigates the use of computer vision and machine learning techniques for
+  automated diarrhea identification using rear-end images collected during routine visits to
+  automatic milk feeders. The long-term goal is to support earlier, more consistent, and
+  scalable health monitoring in dairy production systems.
+</p>
+```
+
+  </section>
+
+  <section>
+    <h2>Experimental Setup</h2>
+
+```
+<p>
+  Rear-end images were collected using cameras installed behind automatic milk feeders in a
+  commercial pre-weaning calf barn. This configuration enables passive image acquisition during
+  normal feeding behavior without requiring additional animal handling.
+</p>
+
+<div class="image-box">
+  <img src="{{ site.baseurl }}/images/fig_experimental_setup.jpg"
+       alt="Experimental setup for automated rear-end image collection at automatic milk feeders">
+
+  <p class="caption">
+    Experimental setup used for automated rear-end image collection in a pre-weaning dairy calf facility.
+  </p>
+</div>
+```
+
+  </section>
+
+  <section>
+    <h2>Dataset</h2>
+
+```
+<p>
+  Images were collected under practical farm conditions and manually reviewed to support supervised
+  model development and evaluation. The dataset was curated for both rear-end detection and diarrhea
+  classification tasks.
+</p>
+
+<div class="metrics-grid">
+  <div class="metric-card">
+    <h3>299</h3>
+    <p>Pre-weaning dairy calves</p>
+  </div>
+
+  <div class="metric-card">
+    <h3>9,000+</h3>
+    <p>Collected images</p>
+  </div>
+
+  <div class="metric-card">
+    <h3>10,000+</h3>
+    <p>Region-of-interest images</p>
+  </div>
+
+  <div class="metric-card">
+    <h3>4</h3>
+    <p>Classification categories</p>
+  </div>
+</div>
+```
+
+  </section>
+
+  <section>
+    <h2>AI Pipeline</h2>
+
+```
+<p>
+  The workflow consists of two primary computer vision tasks. Rear-end regions are first localized
+  from farm-collected images, followed by diarrhea classification using the extracted region of
+  interest. Model outputs can subsequently be integrated into automated calf health monitoring systems.
+</p>
+
+<div class="workflow">
+  <div>Image Collection</div>
+  <div>Rear-End Detection</div>
+  <div>ROI Extraction</div>
+  <div>Diarrhea Classification</div>
+  <div>Health Monitoring</div>
+</div>
+```
+
+  </section>
+
+  <section>
+    <h2>System Demonstration</h2>
+
+```
+<p>
+  The demo below shows the image-based diarrhea detection workflow. This video is presented as a
+  project demonstration and is independent of the manuscript figures.
+</p>
+
+<div class="media-box">
+  <video autoplay muted loop playsinline>
+    <source src="{{ site.baseurl }}/images/CalfDiarrheaVideo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <p class="caption">
+    Demonstration of the image-based diarrhea detection workflow.
+  </p>
+</div>
+```
+
+  </section>
+
+  <section>
+    <h2>Model Development</h2>
+
+```
+<p>
+  Both supervised computer vision models and large vision-language models were evaluated to investigate
+  the capabilities and limitations of modern AI systems for specialized livestock health monitoring
+  applications.
+</p>
+
+<div class="two-column">
+  <div>
+    <h3>Supervised Computer Vision Models</h3>
+    <ul>
+      <li>YOLO and Faster R-CNN for rear-end detection</li>
+      <li>EfficientNet, ConvNeXt, ResNet, Swin, and Vision Transformer architectures</li>
+      <li>Animal-level train-test separation to minimize data leakage</li>
+      <li>Class-balanced training strategies for imbalanced health labels</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3>Vision-Language Models</h3>
+    <ul>
+      <li>Evaluation of open-source LVLMs including Qwen, InternVL, LLaVA, and Llama</li>
+      <li>Zero-shot and few-shot prompting experiments</li>
+      <li>Hierarchical prompting strategies for disease classification</li>
+      <li>Comparison between general-purpose AI systems and supervised domain-specific models</li>
+    </ul>
+  </div>
+</div>
+```
+
+  </section>
+
+  <section>
+    <h2>Key Findings</h2>
+
+```
+<div class="highlight-box">
+  <p>
+    Supervised computer vision models achieved strong performance for this specialized visual
+    recognition task, while inference-only vision-language models showed clear limitations under
+    fine-grained livestock health classification.
+  </p>
+</div>
+
+<div class="metrics-grid">
+  <div class="metric-card">
+    <h3>12</h3>
+    <p>Supervised classification models evaluated</p>
+  </div>
+
+  <div class="metric-card">
+    <h3>10+</h3>
+    <p>Vision-language models benchmarked</p>
+  </div>
+
+  <div class="metric-card">
+    <h3>0.93</h3>
+    <p>Macro-F1 achieved by top supervised models</p>
+  </div>
+
+  <div class="metric-card">
+    <h3>Under Review</h3>
+    <p>Manuscript status</p>
+  </div>
+</div>
+```
+
+  </section>
+
+  <section>
+    <h2>Research Activities</h2>
+
+```
+<ul>
+  <li>Development of data collection and annotation workflows.</li>
+  <li>Construction and quality control of image datasets collected from commercial dairy operations.</li>
+  <li>Training and evaluation of computer vision models for detection and classification tasks.</li>
+  <li>Benchmarking of large vision-language models under zero-shot, few-shot, and hierarchical prompting settings.</li>
+  <li>Statistical analysis, result visualization, and manuscript preparation.</li>
+</ul>
+```
+
+  </section>
+
+  <section>
+    <h2>Publication Status</h2>
+
+```
+<div class="status-card">
+  <h3>Under Review</h3>
+
+  <p>
+    This research project has been completed and the corresponding manuscript is currently undergoing
+    double-blind peer review. Public materials presented on this page are limited to project demonstrations
+    and high-level descriptions that are independent of manuscript figures, tables, and unpublished results.
+  </p>
+</div>
+```
+
+  </section>
+
+  <section>
+    <h2>Technical Skills</h2>
+
+```
+<div class="skill-list">
+  <span>Python</span>
+  <span>PyTorch</span>
+  <span>OpenCV</span>
+  <span>YOLO</span>
+  <span>Faster R-CNN</span>
+  <span>EfficientNet</span>
+  <span>ConvNeXt</span>
+  <span>Vision Transformers</span>
+  <span>LVLM Benchmarking</span>
+  <span>HPC / SLURM</span>
+  <span>Statistical Analysis</span>
+</div>
+```
+
+  </section>
+
+  <div class="back-link">
+    <a href="{{ site.baseurl }}/projects/">← Back to Projects</a>
+  </div>
+
+</div>
+
+<style>
+.project-page {
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 30px 20px 60px 20px;
+  line-height: 1.65;
+}
+
+.project-header {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.project-category {
+  color: #6c757d;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.project-header h1 {
+  font-size: 34px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.project-summary {
+  max-width: 780px;
+  margin: 0 auto;
+  font-size: 18px;
+  color: #555;
+}
+
+.project-tags,
+.skill-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin: 25px 0 40px 0;
+}
+
+.project-tags span,
+.skill-list span {
+  background-color: #f1f3f5;
+  color: #444;
+  padding: 7px 13px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+section {
+  margin-bottom: 45px;
+}
+
+section h2 {
+  font-size: 25px;
+  color: #333;
+  border-bottom: 2px solid #e9ecef;
+  padding-bottom: 8px;
+  margin-bottom: 18px;
+}
+
+section h3 {
+  font-size: 19px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.image-box,
+.media-box {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.image-box img {
+  width: 100%;
+  max-width: 850px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.media-box video {
+  width: 100%;
+  max-width: 760px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.caption {
+  font-size: 14px;
+  color: #777;
+  margin-top: 8px;
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 18px;
+  margin-top: 22px;
+}
+
+.metric-card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 22px 18px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.10);
+}
+
+.metric-card h3 {
+  font-size: 28px;
+  margin: 0 0 8px 0;
+  color: #333;
+}
+
+.metric-card p {
+  margin: 0;
+  color: #666;
+  font-size: 14px;
+}
+
+.workflow {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 14px;
+  margin-top: 22px;
+}
+
+.workflow div {
+  background-color: #f8f9fa;
+  border-radius: 12px;
+  padding: 18px 12px;
+  text-align: center;
+  font-weight: 700;
+  color: #444;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+}
+
+.two-column {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 28px;
+  margin-top: 20px;
+}
+
+.two-column div {
+  background-color: #f8f9fa;
+  padding: 22px;
+  border-radius: 12px;
+}
+
+.highlight-box {
+  background-color: #f8f9fa;
+  border-left: 5px solid #6c757d;
+  padding: 18px 20px;
+  margin-top: 20px;
+  border-radius: 6px;
+  color: #444;
+}
+
+.status-card {
+  background-color: #f8f9fa;
+  border-left: 5px solid #6c757d;
+  padding: 22px;
+  border-radius: 8px;
+}
+
+.status-card h3 {
+  margin-top: 0;
+}
+
+.back-link {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.back-link a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: 700;
+}
+
+.back-link a:hover {
+  color: #0056b3;
+}
+
+@media (max-width: 600px) {
+  .project-header h1 {
+    font-size: 28px;
+  }
+
+  .project-summary {
+    font-size: 16px;
+  }
+}
+</style>
