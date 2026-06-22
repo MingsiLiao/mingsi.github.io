@@ -1,0 +1,533 @@
+---
+layout: default
+title: "Early Disease Forecasting"
+permalink: /projects/disease-forecasting/
+---
+
+<div class="project-page">
+
+  <div class="project-header">
+    <p class="project-category">AI & Computer Vision</p>
+    <h1>Early Disease Forecasting in Dairy Calves</h1>
+    <p class="project-summary">
+      A multimodal artificial intelligence project for predicting disease risk before clinical symptoms
+      become apparent using behavioral, physiological, imaging, and environmental monitoring data.
+    </p>
+  </div>
+
+  <div class="project-tags">
+    <span>Health Monitoring</span>
+    <span>Multimodal AI</span>
+    <span>Forecasting</span>
+    <span>Computer Vision</span>
+    <span>Time-Series Analysis</span>
+    <span>Precision Livestock Farming</span>
+  </div>
+
+  <div class="image-box">
+    <img src="{{ site.baseurl }}/images/project_page_disease_forecasting_card.jpg"
+         alt="Early Disease Forecasting"
+         style="width: 500px;">
+  </div>
+
+  <section>
+    <h2>Project Overview</h2>
+
+    <p>
+      Disease remains one of the most important challenges affecting calf health, growth performance,
+      welfare, and economic sustainability in dairy production systems. Traditional disease detection
+      often depends on visible clinical signs, which may appear only after physiological and behavioral
+      changes have already occurred.
+    </p>
+
+    <p>
+      This project investigates whether multimodal artificial intelligence can identify early indicators
+      of disease risk before clinical symptoms become apparent. By integrating multiple sources of biological,
+      behavioral, and environmental information, the goal is to support proactive intervention and precision
+      health management in pre-weaning dairy calves.
+    </p>
+  </section>
+
+  <section>
+    <h2>Multimodal Monitoring System</h2>
+
+    <p>
+      Multiple monitoring systems are integrated to continuously track calf health, feeding behavior,
+      growth, and environmental conditions. These data streams provide complementary information that
+      may reveal disease-related changes before clinical diagnosis.
+    </p>
+
+    <div class="metrics-grid">
+
+      <div class="metric-card">
+        <h3>Behavior</h3>
+        <p>Feeding behavior and automatic milk feeder records</p>
+      </div>
+
+      <div class="metric-card">
+        <h3>Health</h3>
+        <p>Health scores, temperature, and veterinary diagnoses</p>
+      </div>
+
+      <div class="metric-card">
+        <h3>Vision</h3>
+        <p>Rear-end images and depth imaging systems</p>
+      </div>
+
+      <div class="metric-card">
+        <h3>Environment</h3>
+        <p>Weather and environmental monitoring records</p>
+      </div>
+
+      <div class="metric-card">
+        <h3>Growth</h3>
+        <p>Body weight and growth trajectory information</p>
+      </div>
+
+      <div class="metric-card">
+        <h3>Microbiome</h3>
+        <p>Fecal and oral microbial community profiles</p>
+      </div>
+
+    </div>
+  </section>
+
+  <section>
+    <h2>Study Cohort</h2>
+
+    <p>
+      Longitudinal records are collected throughout the pre-weaning period and linked to disease outcomes.
+      These datasets support the development of predictive models capable of identifying calves at elevated
+      disease risk before clinical signs are observed.
+    </p>
+
+    <div class="metrics-grid">
+
+      <div class="metric-card">
+        <h3>49</h3>
+        <p>Calves with complete multimodal records</p>
+      </div>
+
+      <div class="metric-card">
+        <h3>200+</h3>
+        <p>Additional calves with automated monitoring data</p>
+      </div>
+
+      <div class="metric-card">
+        <h3>Daily</h3>
+        <p>Behavioral and health monitoring records</p>
+      </div>
+
+      <div class="metric-card">
+        <h3>Longitudinal</h3>
+        <p>Repeated observations across calf development</p>
+      </div>
+
+    </div>
+  </section>
+
+  <section>
+    <h2>Disease Forecasting Pipeline</h2>
+
+    <p>
+      The forecasting framework combines multimodal information collected prior to disease events.
+      Temporal patterns are extracted from behavioral, physiological, imaging, and environmental
+      records and used to estimate future disease risk.
+    </p>
+
+    <div class="workflow">
+      <div>Continuous Monitoring</div>
+      <div>Feature Extraction</div>
+      <div>Multimodal Fusion</div>
+      <div>Disease Risk Prediction</div>
+      <div>Early Intervention</div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Forecasting Targets</h2>
+
+    <p>
+      Prediction models are being developed to forecast disease occurrence across multiple time horizons,
+      allowing comparison between short-term and longer-term early warning systems.
+    </p>
+
+    <div class="metrics-grid">
+
+      <div class="metric-card">
+        <h3>1 Day</h3>
+        <p>Immediate disease forecasting</p>
+      </div>
+
+      <div class="metric-card">
+        <h3>3 Days</h3>
+        <p>Short-term forecasting</p>
+      </div>
+
+      <div class="metric-card">
+        <h3>5 Days</h3>
+        <p>Intermediate forecasting</p>
+      </div>
+
+      <div class="metric-card">
+        <h3>7 Days</h3>
+        <p>Early-warning forecasting</p>
+      </div>
+
+    </div>
+  </section>
+
+  <section>
+    <h2>Feature Engineering</h2>
+
+    <p>
+      Longitudinal features are generated from multiple data streams to capture behavioral,
+      physiological, and biological changes that may precede disease events.
+    </p>
+
+    <div class="two-column">
+
+      <div>
+        <h3>Behavioral & Growth Features</h3>
+        <ul>
+          <li>Milk intake and feeding behavior</li>
+          <li>Feeder visit frequency and duration</li>
+          <li>Body weight and growth trajectories</li>
+          <li>Depth-image-derived body measurements</li>
+        </ul>
+      </div>
+
+      <div>
+        <h3>Health & Biological Features</h3>
+        <ul>
+          <li>Health scores and disease history</li>
+          <li>Temperature and veterinary records</li>
+          <li>Serum IgG and immune-related indicators</li>
+          <li>Microbiome-derived biological features</li>
+        </ul>
+      </div>
+
+    </div>
+  </section>
+
+  <section>
+    <h2>Model Development</h2>
+
+    <p>
+      Multiple machine learning and multimodal learning strategies are being evaluated to determine
+      how different data modalities contribute to disease forecasting performance.
+    </p>
+
+    <div class="two-column">
+
+      <div>
+        <h3>Machine Learning Models</h3>
+        <ul>
+          <li>Logistic regression</li>
+          <li>Random forest</li>
+          <li>XGBoost</li>
+          <li>Time-series feature modeling</li>
+        </ul>
+      </div>
+
+      <div>
+        <h3>Multimodal Learning</h3>
+        <ul>
+          <li>Modality-specific encoders</li>
+          <li>Feature fusion strategies</li>
+          <li>Representation learning</li>
+          <li>Disease risk prediction frameworks</li>
+        </ul>
+      </div>
+
+    </div>
+  </section>
+
+  <section>
+    <h2>Expected Impact</h2>
+
+    <div class="highlight-box">
+      <p>
+        Earlier disease detection may enable more timely intervention, reduce treatment delays,
+        improve calf welfare, and support precision livestock health management. The long-term goal
+        is to transition from reactive treatment toward proactive disease prevention.
+      </p>
+    </div>
+
+    <div class="metrics-grid">
+
+      <div class="metric-card">
+        <h3>Earlier</h3>
+        <p>Disease detection before clinical symptoms</p>
+      </div>
+
+      <div class="metric-card">
+        <h3>Health</h3>
+        <p>Improved calf welfare and management</p>
+      </div>
+
+      <div class="metric-card">
+        <h3>Precision</h3>
+        <p>Individualized disease-risk assessment</p>
+      </div>
+
+      <div class="metric-card">
+        <h3>Prevention</h3>
+        <p>Proactive intervention strategies</p>
+      </div>
+
+    </div>
+  </section>
+
+  <section>
+    <h2>Research Activities</h2>
+
+    <ul>
+      <li>Development of multimodal disease forecasting datasets.</li>
+      <li>Integration of behavioral, health, imaging, environmental, and microbiome records.</li>
+      <li>Feature engineering for temporal disease-risk prediction.</li>
+      <li>Development of machine learning and multimodal forecasting models.</li>
+      <li>Evaluation of prediction performance across multiple forecasting horizons.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Project Status</h2>
+
+    <div class="status-card">
+
+      <h3>Ongoing Research</h3>
+
+      <p>
+        Data integration, disease labeling, and forecasting model development are currently underway.
+        This project is part of a broader effort to develop predictive health monitoring systems for
+        dairy calves using multimodal artificial intelligence.
+      </p>
+
+    </div>
+  </section>
+
+  <section>
+    <h2>Technical Skills</h2>
+
+    <div class="skill-list">
+      <span>Python</span>
+      <span>PyTorch</span>
+      <span>Machine Learning</span>
+      <span>Multimodal AI</span>
+      <span>Time-Series Analysis</span>
+      <span>Forecasting</span>
+      <span>Computer Vision</span>
+      <span>Health Informatics</span>
+      <span>Data Fusion</span>
+      <span>XGBoost</span>
+      <span>HPC / SLURM</span>
+      <span>Statistical Analysis</span>
+    </div>
+  </section>
+
+  <div class="back-link">
+    <a href="{{ site.baseurl }}/projects/">← Back to Projects</a>
+  </div>
+
+</div>
+
+<style>
+.project-page {
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 30px 20px 60px 20px;
+  line-height: 1.65;
+}
+
+.project-header {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.project-category {
+  color: #6c757d;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.project-header h1 {
+  font-size: 34px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.project-summary {
+  max-width: 780px;
+  margin: 0 auto;
+  font-size: 18px;
+  color: #555;
+}
+
+.project-tags,
+.skill-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin: 25px 0 40px 0;
+}
+
+.project-tags span,
+.skill-list span {
+  background-color: #f1f3f5;
+  color: #444;
+  padding: 7px 13px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+section {
+  margin-bottom: 45px;
+}
+
+section h2 {
+  font-size: 25px;
+  color: #333;
+  border-bottom: 2px solid #e9ecef;
+  padding-bottom: 8px;
+  margin-bottom: 18px;
+}
+
+section h3 {
+  font-size: 19px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.image-box,
+.media-box {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.image-box img {
+  width: 100%;
+  max-width: 850px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.media-box video {
+  width: 100%;
+  max-width: 760px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.caption {
+  font-size: 14px;
+  color: #777;
+  margin-top: 8px;
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 18px;
+  margin-top: 22px;
+}
+
+.metric-card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 22px 18px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.10);
+}
+
+.metric-card h3 {
+  font-size: 28px;
+  margin: 0 0 8px 0;
+  color: #333;
+}
+
+.metric-card p {
+  margin: 0;
+  color: #666;
+  font-size: 14px;
+}
+
+.workflow {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 14px;
+  margin-top: 22px;
+}
+
+.workflow div {
+  background-color: #f8f9fa;
+  border-radius: 12px;
+  padding: 18px 12px;
+  text-align: center;
+  font-weight: 700;
+  color: #444;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+}
+
+.two-column {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 28px;
+  margin-top: 20px;
+}
+
+.two-column div {
+  background-color: #f8f9fa;
+  padding: 22px;
+  border-radius: 12px;
+}
+
+.highlight-box {
+  background-color: #f8f9fa;
+  border-left: 5px solid #6c757d;
+  padding: 18px 20px;
+  margin-top: 20px;
+  border-radius: 6px;
+  color: #444;
+}
+
+.status-card {
+  background-color: #f8f9fa;
+  border-left: 5px solid #6c757d;
+  padding: 22px;
+  border-radius: 8px;
+}
+
+.status-card h3 {
+  margin-top: 0;
+}
+
+.back-link {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.back-link a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: 700;
+}
+
+.back-link a:hover {
+  color: #0056b3;
+}
+
+@media (max-width: 600px) {
+  .project-header h1 {
+    font-size: 28px;
+  }
+
+  .project-summary {
+    font-size: 16px;
+  }
+}
+</style>
