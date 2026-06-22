@@ -1,0 +1,558 @@
+---
+
+layout: default
+title: "Computer Vision-Based Body Weight Prediction"
+permalink: /projects/calf-weight-estimation/
+--------------------------------------------
+
+<div class="project-page">
+
+  <div class="project-header">
+    <p class="project-category">AI & Computer Vision</p>
+    <h1>Computer Vision-Based Body Weight Prediction in Dairy Calves</h1>
+    <p class="project-summary">
+      An automated depth-imaging project for dairy calf body weight estimation using computer vision,
+      YOLOv8 segmentation, machine learning, and longitudinal growth modeling.
+    </p>
+  </div>
+
+  <div class="project-tags">
+    <span>Computer Vision</span>
+    <span>Depth Imaging</span>
+    <span>YOLOv8</span>
+    <span>Machine Learning</span>
+    <span>Growth Monitoring</span>
+    <span>Precision Livestock Farming</span>
+  </div>
+
+  <div class="image-box">
+    <img src="../images/project_page_bw_prediction_card.jpg"
+         alt="Computer Vision-Based Body Weight Prediction"
+         style="width: 500px;">
+  </div>
+
+  <section>
+    <h2>Project Overview</h2>
+
+
+<p>
+  Body weight is an important indicator of calf growth, health, feed efficiency, and weaning readiness.
+  However, frequent body weight collection requires labor, animal handling, and access to weighing
+  equipment, which can limit routine monitoring on dairy farms.
+</p>
+
+<p>
+  This project investigates the use of depth cameras, computer vision, and machine learning to estimate
+  dairy calf body weight automatically and non-invasively. The goal is to support more frequent growth
+  monitoring while reducing manual labor and animal handling stress.
+</p>
+
+
+  </section>
+
+
+  <section>
+    <h2>Experimental Setup</h2>
+
+ 
+<p>
+  A depth camera was mounted above the automatic milk feeder to capture top-view depth videos
+  of calves during feeding. This setup enabled non-contact image acquisition while calves performed
+  normal feeding behavior, providing depth-based body measurements without manual handling.
+</p>
+
+<div class="image-box">
+  <img src="../images/bw_esitmation_experimental_setup.png.jpg"
+       alt="Experimental setup for depth-image-based body weight prediction"
+        style="width: 500px;">
+  <p class="caption">
+    Experimental setup for depth-image collection. A depth camera was positioned above the automatic
+    milk feeder to capture top-view videos of dairy calves during feeding. (A) Top-view of the calf pen equipped with an automatic milk feeder and a depth camera.
+(B) Side-view of a dairy calf during milk feeding, with a depth camera capturing videos
+  </p>
+</div>
+ 
+
+  </section>
+
+
+  <section>
+    <h2>Automated Data Collection System</h2>
+
+
+<p>
+  Depth videos were collected using an Intel RealSense camera mounted above an automatic milk feeder.
+  The camera captured top-view depth information while calves visited the feeder, enabling automated
+  image acquisition during routine feeding behavior.
+</p>
+
+<p>
+  The system was designed to support hands-free video collection under practical farm conditions and
+  to generate depth images and depth maps for downstream segmentation, body measurement extraction,
+  and body weight prediction.
+</p>
+
+
+  </section>
+
+  <section>
+    <h2>Dataset</h2>
+
+
+<p>
+  Two data collection trials were used. One trial included paired depth videos and manually collected
+  body weight records for prediction modeling. A second trial provided automatically collected depth
+  videos for developing and validating deep learning-based segmentation models.
+</p>
+
+<div class="metrics-grid">
+  <div class="metric-card">
+    <h3>68</h3>
+    <p>Dairy calves across two trials</p>
+  </div>
+
+  <div class="metric-card">
+    <h3>3,286</h3>
+    <p>Automatically collected videos</p>
+  </div>
+
+  <div class="metric-card">
+    <h3>5,751</h3>
+    <p>Depth images used for segmentation</p>
+  </div>
+
+  <div class="metric-card">
+    <h3>196</h3>
+    <p>Paired weight and video records</p>
+  </div>
+</div>
+
+
+  </section>
+
+  <section>
+    <h2>Computer Vision Pipeline</h2>
+
+
+<p>
+  The workflow converts top-view depth videos into calf body measurements. Calf contours are first
+  segmented from depth images, and body metrics such as width, length, average height, volume, and
+  contour area are extracted. These measurements are then used as predictors for body weight estimation.
+</p>
+
+<div class="workflow">
+  <div>Depth Video Collection</div>
+  <div>Calf Segmentation</div>
+  <div>Contour Extraction</div>
+  <div>Body Metric Calculation</div>
+  <div>Weight Prediction</div>
+</div>
+
+
+  </section>
+
+  <section>
+    <h2>Segmentation Methods</h2>
+
+
+<p>
+  Two segmentation strategies were evaluated. A threshold-based image processing method was compared
+  with deep learning-based YOLOv8 segmentation models. The deep learning approach was more robust
+  under variable lighting, calf posture, and Holstein coat patterns.
+</p>
+
+<div class="two-column">
+  <div>
+    <h3>Threshold-Based Segmentation</h3>
+    <ul>
+      <li>Rule-based image processing using OpenCV</li>
+      <li>HSV transformation and binary thresholding</li>
+      <li>Morphological operations for contour cleaning</li>
+      <li>Lower robustness under poor depth image quality</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3>YOLOv8 Segmentation</h3>
+    <ul>
+      <li>Deep learning-based calf contour extraction</li>
+      <li>Model variants from YOLOv8n to YOLOv8x</li>
+      <li>Training on manually refined polygon labels</li>
+      <li>Improved segmentation under complex farm conditions</li>
+    </ul>
+  </div>
+</div>
+
+
+  </section>
+
+  <section>
+    <h2>Model Development</h2>
+
+
+<p>
+  Body weight prediction was evaluated using both single-time-point and longitudinal modeling strategies.
+  Extracted body measurements were used to train and compare regression and machine learning models.
+  Longitudinal modeling was also used to account for repeated measurements from the same calf over time.
+</p>
+
+<div class="two-column">
+  <div>
+    <h3>Single-Time-Point Prediction</h3>
+    <ul>
+      <li>Linear regression</li>
+      <li>XGBoost regression</li>
+      <li>Five-fold calf-level cross-validation</li>
+      <li>Repeated randomized validation to assess robustness</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3>Longitudinal Prediction</h3>
+    <ul>
+      <li>Linear regression</li>
+      <li>XGBoost regression</li>
+      <li>Linear mixed models</li>
+      <li>Repeated-measures modeling for calf growth trajectories</li>
+    </ul>
+  </div>
+</div>
+
+
+  </section>
+
+  <section>
+    <h2>Key Findings</h2>
+
+
+<div class="highlight-box">
+  <p>
+    YOLOv8-based segmentation improved calf contour extraction compared with threshold-based image
+    processing, enabling more accurate body metric extraction and stronger body weight prediction.
+    Longitudinal modeling further improved growth prediction by accounting for repeated measurements
+    within individual calves.
+  </p>
+</div>
+
+<div class="metrics-grid">
+  <div class="metric-card">
+    <h3>0.98</h3>
+    <p>YOLOv8 segmentation IoU</p>
+  </div>
+
+  <div class="metric-card">
+    <h3>0.91</h3>
+    <p>Single-time-point prediction R²</p>
+  </div>
+
+  <div class="metric-card">
+    <h3>4.37%</h3>
+    <p>Single-time-point MAPE</p>
+  </div>
+
+  <div class="metric-card">
+    <h3>0.99</h3>
+    <p>Longitudinal prediction R²</p>
+  </div>
+</div>
+
+
+  </section>
+
+  <section>
+    <h2>Research Activities</h2>
+
+
+<ul>
+  <li>Development of an automated depth-image collection workflow for dairy calf monitoring.</li>
+  <li>Processing of depth videos and extraction of depth images and depth maps.</li>
+  <li>Development and evaluation of threshold-based and YOLOv8-based segmentation methods.</li>
+  <li>Extraction of calf body metrics including width, length, average height, volume, and contour area.</li>
+  <li>Evaluation of linear regression, XGBoost, and linear mixed models for body weight prediction.</li>
+  <li>Statistical validation using cross-validation, longitudinal analysis, and model comparison.</li>
+</ul>
+
+
+  </section>
+
+  <section>
+    <h2>Publication Status</h2>
+
+  <section>
+    <h2>Publication</h2>
+
+
+<div class="status-card">
+  <h3>Published in <em>Animals</em> (2025)</h3>
+
+  <p>
+    Liao, M.; Morota, G.; Bi, Y.; Cockrum, R. R. 
+    <strong>Predicting Dairy Calf Body Weight from Depth Images Using Deep Learning (YOLOv8)
+    and Threshold Segmentation with Cross-Validation and Longitudinal Analysis.</strong>
+    <em>Animals</em>, 2025.
+  </p>
+
+  <p>
+    <a href="https://doi.org/10.3390/ani15060868" target="_blank">
+      View Published Paper
+    </a>
+  </p>
+</div>
+
+<div class="pdf-viewer">
+  <object
+    data="../files/Liao_BodyWeight_Animals_2025.pdf#view=FitH"
+    type="application/pdf"
+    width="100%"
+    height="800px">
+
+    <iframe
+      src="../files/Liao_BodyWeight_Animals_2025.pdf#view=FitH"
+      width="100%"
+      height="800px">
+
+      <p>
+        Your browser cannot display PDFs inline.
+        Please <a href="../files/Liao_BodyWeight_Animals_2025.pdf">download the paper</a>.
+      </p>
+
+    </iframe>
+  </object>
+</div>
+
+
+  </section>
+
+
+
+  </section>
+
+  <section>
+    <h2>Technical Skills</h2>
+
+
+<div class="skill-list">
+  <span>Python</span>
+  <span>R</span>
+  <span>PyTorch</span>
+  <span>YOLOv8</span>
+  <span>OpenCV</span>
+  <span>Intel RealSense</span>
+  <span>Depth Imaging</span>
+  <span>XGBoost</span>
+  <span>Linear Mixed Models</span>
+  <span>Cross-Validation</span>
+  <span>HPC / A100 GPU</span>
+  <span>Statistical Analysis</span>
+</div>
+
+
+  </section>
+
+  <div class="back-link">
+    <a href="../projects/">← Back to Projects</a>
+  </div>
+
+</div>
+
+<style>
+.project-page {
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 30px 20px 60px 20px;
+  line-height: 1.65;
+}
+
+.project-header {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.project-category {
+  color: #6c757d;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.project-header h1 {
+  font-size: 34px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.project-summary {
+  max-width: 780px;
+  margin: 0 auto;
+  font-size: 18px;
+  color: #555;
+}
+
+.project-tags,
+.skill-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin: 25px 0 40px 0;
+}
+
+.project-tags span,
+.skill-list span {
+  background-color: #f1f3f5;
+  color: #444;
+  padding: 7px 13px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+section {
+  margin-bottom: 45px;
+}
+
+section h2 {
+  font-size: 25px;
+  color: #333;
+  border-bottom: 2px solid #e9ecef;
+  padding-bottom: 8px;
+  margin-bottom: 18px;
+}
+
+section h3 {
+  font-size: 19px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.image-box,
+.media-box {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.image-box img {
+  width: 100%;
+  max-width: 850px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.caption {
+  font-size: 14px;
+  color: #777;
+  margin-top: 8px;
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 18px;
+  margin-top: 22px;
+}
+
+.metric-card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 22px 18px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.10);
+}
+
+.metric-card h3 {
+  font-size: 28px;
+  margin: 0 0 8px 0;
+  color: #333;
+}
+
+.metric-card p {
+  margin: 0;
+  color: #666;
+  font-size: 14px;
+}
+
+.workflow {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 14px;
+  margin-top: 22px;
+}
+
+.workflow div {
+  background-color: #f8f9fa;
+  border-radius: 12px;
+  padding: 18px 12px;
+  text-align: center;
+  font-weight: 700;
+  color: #444;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+}
+
+.two-column {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 28px;
+  margin-top: 20px;
+}
+
+.two-column div {
+  background-color: #f8f9fa;
+  padding: 22px;
+  border-radius: 12px;
+}
+
+.highlight-box {
+  background-color: #f8f9fa;
+  border-left: 5px solid #6c757d;
+  padding: 18px 20px;
+  margin-top: 20px;
+  border-radius: 6px;
+  color: #444;
+}
+
+.status-card {
+  background-color: #f8f9fa;
+  border-left: 5px solid #6c757d;
+  padding: 22px;
+  border-radius: 8px;
+}
+
+.status-card h3 {
+  margin-top: 0;
+}
+
+.back-link {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.back-link a,
+.status-card a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: 700;
+}
+
+.back-link a:hover,
+.status-card a:hover {
+  color: #0056b3;
+}
+
+.pdf-viewer {
+  margin-top: 2rem;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+@media (max-width: 600px) {
+  .project-header h1 {
+    font-size: 28px;
+  }
+
+  .project-summary {
+    font-size: 16px;
+  }
+}
+</style>
