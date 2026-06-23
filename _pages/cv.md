@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 [📄 Download MingsiLiao_CV (PDF)](MingsiLiao_CV_2026.pdf)
 
-<div style="margin-top: 2rem;">
+<!-- <div style="margin-top: 2rem;">
   <object
     data="https://mingsiliao.github.io/mingsi.github.io/_pages/MingsiLiao_CV_2026.pdf#view=FitH"
     type="application/pdf"
@@ -28,5 +28,20 @@ redirect_from:
       </p>
 
     </iframe>
+  </object>
+</div> -->
+
+<div style="margin-top: 2rem;">
+  <object
+    data="{{ base_path }}/_pages/MingsiLiao_CV_2026.pdf#view=FitH"
+    type="application/pdf"
+    width="100%"
+    height="800px">
+
+    <p>
+      Your browser cannot display PDFs inline.
+      Please <a href="{{ base_path }}/_pages/MingsiLiao_CV_2026.pdf">download the file</a>.
+    </p>
+
   </object>
 </div>
