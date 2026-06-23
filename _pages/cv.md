@@ -36,7 +36,7 @@ redirect_from:
     data="{{ base_path }}/_pages/MingsiLiao_CV_2026.pdf#view=FitH"
     type="application/pdf"
     width="100%"
-    height="800px">
+    height="50px">
 
     <p>
       Your browser cannot display PDFs inline.
