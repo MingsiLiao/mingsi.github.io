@@ -35,8 +35,8 @@ redirect_from:
   <object
     data="{{ base_path }}/_pages/MingsiLiao_CV_2026.pdf#view=FitH"
     type="application/pdf"
-    width="100%"
-    height="88px">
+    width="120%"
+    height="85px">
 
     <p>
       Your browser cannot display PDFs inline.
@@ -45,3 +45,4 @@ redirect_from:
 
   </object>
 </div>
+
