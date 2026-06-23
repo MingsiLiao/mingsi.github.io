@@ -10,37 +10,17 @@ redirect_from:
 {% include base_path %}
 [📄 Download MingsiLiao_CV (PDF)](MingsiLiao_CV_2026.pdf)
 
-<!-- <div style="margin-top: 2rem;">
+<div style="margin-top: 2rem;">
   <object
     data="https://mingsiliao.github.io/mingsi.github.io/_pages/MingsiLiao_CV_2026.pdf#view=FitH"
     type="application/pdf"
     width="100%"
-    height="800px">
+    height="600px">
 
     <iframe
-      src="https://mingsiliao.github.io/mingsi.github.io/_pages/MingsiLiao_CV_2025_1.pdf#view=FitH"
+      src="https://mingsiliao.github.io/mingsi.github.io/_pages/MingsiLiao_CV_2026.pdf#view=FitH"
       width="100%"
-      height="1000px">
-
-      <p>
-        Your browser cannot display PDFs inline.
-        Please <a href="https://mingsiliao.github.io/mingsi.github.io/_pages/MingsiLiao_CV_2025_1.pdf">download the file</a>.
-      </p>
-
-    </iframe>
-  </object>
-</div> -->
-<div style="margin-top: 2rem;">
-  <object
-    data="https://mingsiliao.github.io/mingsi.github.io/_pages/MingsiLiao_CV_2026.pdf#page=1&view=Fit"
-    type="application/pdf"
-    width="100%"
-    height="800px">
-
-    <iframe
-      src="https://mingsiliao.github.io/mingsi.github.io/_pages/MingsiLiao_CV_2026.pdf#page=1&view=Fit"
-      width="100%"
-      height="800px">
+      height="600px">
 
       <p>
         Your browser cannot display PDFs inline.
