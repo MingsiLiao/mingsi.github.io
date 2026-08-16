@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[📄 Download MingsiLiao_CV (PDF)](MingsiLiao_CV_2026.pdf)
+[📄 Download MingsiLiao_CV (PDF)](https://mingsiliao.github.io/mingsi.github.io/_pages/MingsiLiao_CV_2026.pdf)
 
 <!-- <div style="margin-top: 2rem;">
   <object
