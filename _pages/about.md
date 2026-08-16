@@ -27,7 +27,7 @@ Ph.D. candidate in [Computational Biology](https://gbcb.graduateschool.vt.edu/ab
 
 <br>
 
-[📄 Download MingsiLiao_CV (PDF)](MingsiLiao_CV_2026.pdf)
+[📄 Download MingsiLiao_CV (PDF)](https://mingsiliao.github.io/mingsi.github.io/_pages/MingsiLiao_CV_2026.pdf)
 
 
 <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 10px;">
