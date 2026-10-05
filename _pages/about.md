@@ -23,8 +23,9 @@ redirect_from:
 </div>
 <br>
 
-Ph.D. candidate in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) at Virginia Tech and holder of a Master of Engineering in [Computer Science and Applications](https://iac.vt.edu/masters-degrees/meng-cs.html) (Concentration: Data Analytics and Artificial Intelligence) from the [Virginia Tech Department of Computer Science](https://cs.vt.edu/). I am advised by [Dr. Rebecca Cockrum (Animal Science)](https://sas.vt.edu/people/faculty/cockrum-rebecca.html) and co-advised by [Dr. Chris Thomas (Computer Science)](https://people.cs.vt.edu/chris/). My research combines next-generation sequencing (NGS), artificial intelligence (AI), machine learning, and computer vision to advance animal health, precision livestock management, and data-driven decision-making. Current projects include microbiome analysis, multimodal prediction of calf health and weaning readiness, and the development of AI systems for livestock monitoring and disease detection. 
+I am a Ph.D. candidate in [Computational Biology](https://gbcb.graduateschool.vt.edu/about.html) in the [School of Animal Sciences](https://sas.vt.edu/) at Virginia Tech and hold a Master of Engineering in [Computer Science and Applications](https://iac.vt.edu/masters-degrees/meng-cs.html), with a concentration in Data Analytics and Artificial Intelligence, from the [Virginia Tech Department of Computer Science](https://cs.vt.edu/). I am advised by [Dr. Rebecca Cockrum (Animal Science)](https://sas.vt.edu/people/faculty/cockrum-rebecca.html) and co-advised by [Dr. Chris Thomas (Computer Science)](https://people.cs.vt.edu/chris/).
 
+My research combines next-generation sequencing (NGS), artificial intelligence (AI), machine learning, and computer vision to advance animal health, precision livestock management, and data-driven decision-making. Current projects include microbiome analysis, multimodal prediction of calf health and weaning readiness, and the development of AI systems for livestock monitoring and disease detection.
 <br>
 
 [📄 Download MingsiLiao_CV (PDF)](https://mingsiliao.github.io/mingsi.github.io/_pages/MingsiLiao_CV_2026.pdf)
